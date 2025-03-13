@@ -1,0 +1,54 @@
+Blinkit Sales Dashboard Report: Tools Used and Insights Found
+-----------------------------------------------------------------
+
+1. Tools and Features Used:
+
+Data Source: Blinkit sales data, outlet locations, item types, outlet size, and customer ratings.
+Dashboard Tools:
+Slicers: Used to filter data by Outlet Location Type (Tier 1, Tier 2, Tier 3), Outlet Size (High, Medium, Small), and Item Type (e.g., fruits, snacks, household).
+KPI Cards: Summarize key metrics such as Total Sales, Average Sales, Number of Items, and Average Ratings.
+Charts and Visualizations:
+Bar Charts for sales breakdown by outlet and item type.
+Pie Charts for outlet size contributions and item fat content.
+Line Chart for outlet establishment trends over the years.
+Tables to present Total Sales, Number of Items, Average Sales, Average Rating, and Item Visibility by Outlet Type.
+
+2. Insights Found:
+Overall Sales Performance:
+Total Sales: Blinkit achieved $1.20M in total sales.
+Average Sales per Transaction: Approximately $141 per sale.
+Total Number of Items Sold: Blinkit has sold 8523 items across various categories.
+Customer Ratings: The platform received an average rating of 3.9, indicating moderate customer satisfaction.
+Sales by Outlet Size:
+High-size outlets contributed the most to the sales revenue, with total sales of $507.9K.
+Medium outlets followed with $444.79K, while Small outlets contributed $248.99K.
+This indicates that focusing on larger outlets yields better revenue generation.
+Sales by Outlet Location (Tier Levels):
+Tier 3 locations performed the best, contributing $472.13K to total sales, accounting for 71.3% of total sales by outlet location.
+Tier 2 locations followed with $393.15K.
+Tier 1 locations contributed $336.4K.
+Sales by Item Fat Content:
+Regular Fat products were the top performers, generating $776.32K in sales.
+Low Fat items, although contributing less, still generated a significant $425.36K.
+Sales by Item Type:
+Top-selling categories: Fruits and Vegetables,Snack Foods,Household Items,Frozen Foods, Dairy, and Canned Goods also contributed significantly.
+Low-selling categories: Seafood, breakfast items, and starchy foods had the least sales.
+Sales by Outlet Type:
+Supermarket Type 1 emerged as the top-performing outlet type with $787.55K in sales and 5577 items sold.
+Grocery Stores generated $151.94K from 1083 items sold, followed by Supermarket Type 2 and Supermarket Type 3 contributing $131K in sales.
+Average Sales per Outlet Type: The average sales remained consistent at $140 per transaction.
+Outlet Establishment Trends:
+Sales showed a steady increase from 2012 to 2016, peaking at $205K in 2016.
+Post-2016, sales saw a slight decline, stabilizing at $131K by 2022.
+
+3.Summary of Insights:
+
+Outlet Size & Location: Larger outlets and Tier 3 locations are the key revenue drivers for Blinkit. A focus on expanding high-size outlets in Tier 3 locations could lead to higher revenue generation.
+Product Types: Regular fat products and staple categories like fruits, vegetables, and snacks are top contributors. Expanding product offerings in these categories could further boost sales.
+Customer Experience: With a customer rating of 3.9, there is room for improvement in customer satisfaction and loyalty.
+Growth Strategy: There is a need to maintain consistent growth after 2016, which could be supported by improving outlet performance and product offerings.
+
+4. Recommendations:
+Target Tier 3 Locations: Expand sales efforts in Tier 3 locations and larger outlets where sales performance is strongest.
+Focus on High-Performing Categories: Continue promoting and expanding the top-performing categories like fruits, vegetables, and snacks.
+Improve Customer Ratings: Identify areas of customer dissatisfaction and implement strategies to improve the average rating, potentially increasing repeat customers.
